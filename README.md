@@ -3,13 +3,21 @@
 
 This is a chatbot example based on the DiscordGo, PingPong Example Bot.
 This Bot will respond to 
-```Hello```
+
+```Hello
+```
 with
-```:wave: Welcome to the Government Service! How can I help you today?``` 
+
+```:wave: Welcome to the Government Service! How can I help you today?
+``` 
 and
-```I'd like to find information about paying rates, please!```
+
+```I'd like to find information about paying rates, please!
+```
 with 
-```Sure, here is the link you're after: http://govt.org.au/rates``` 
+
+```Sure, here is the link you're after: http://govt.org.au/rates
+``` 
 
 <img  src="http://i.imgur.com/XkKye91.png">
 ## Build
